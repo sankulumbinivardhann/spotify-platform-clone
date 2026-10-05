@@ -1,0 +1,7 @@
+<svg
+    viewBox="0 0 100 100"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Sharp-edged right-pointing triangle -->
+    <polygon points="30,20 30,80 80,50" fill="black" />
+</svg>
